@@ -2,7 +2,6 @@ export default {
   wrapper: {
     position: 'relative',
     display: 'inline-block',
-    zIndex: '9999',
     color: '#555',
     cursor: 'pointer !important',
   },
